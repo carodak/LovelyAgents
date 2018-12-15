@@ -1,0 +1,21 @@
+﻿<Properties StartupConfiguration="{C48BBAEA-F32A-B04A-95CB-4B27B313F2A6}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/AstarPathfindingProject/Core/AstarPath.cs">
+    <Files>
+      <File FileName="Assets/SocialCollisionAgent.cs" Line="46" Column="1" />
+      <File FileName="Assets/GenerateWanderers.cs" Line="5" Column="34" />
+      <File FileName="Assets/SocialCollisionSocial.cs" Line="30" Column="50" />
+      <File FileName="Assets/SocialAgent.cs" Line="239" Column="62" />
+      <File FileName="Assets/WandererCollisionAgent.cs" Line="82" Column="1" />
+      <File FileName="Assets/Wanderer.cs" Line="302" Column="1" />
+      <File FileName="Assets/SocialCollisionObstacle.cs" Line="31" Column="13" />
+      <File FileName="Assets/AstarPathfindingProject/Core/AstarPath.cs" Line="838" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
