@@ -12,4 +12,4 @@ I used arongranberg A* for the AI pathfinding: https://arongranberg.com/astar/do
 
 ![alt text](https://github.com/carodak/LovelyAgents/blob/master/game.png)
 
-Note: As I wanted to get back into good programming habits, I refactored the agents code (GameAgent, Traveller, Wanderer SocialAgent) to have inheritance, polymorphism and to split the code into smaller methods. However, there would still be some work to do on this side, adding encapsulation, assertions, following the MVC model, doing unit tests... I would apply these good habits to my new projects.
+Note: As I wanted to get back into good programming habits, I refactored the agents code (GameAgent, Traveller, Wanderer SocialAgent) to have inheritance, polymorphism and to split the code into smaller methods. However, there would still be some work to do on this side, like having a better encapsulation, add assertions, follow the MVC model, do unit tests... I would apply these good habits to my new projects.
