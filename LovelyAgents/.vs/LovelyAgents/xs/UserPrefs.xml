@@ -1,21 +1,42 @@
 ﻿<Properties StartupConfiguration="{C48BBAEA-F32A-B04A-95CB-4B27B313F2A6}|">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/AstarPathfindingProject/Core/AstarPath.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/MyScripts/Traveller.cs">
     <Files>
-      <File FileName="Assets/SocialCollisionAgent.cs" Line="46" Column="1" />
-      <File FileName="Assets/GenerateWanderers.cs" Line="5" Column="34" />
-      <File FileName="Assets/SocialCollisionSocial.cs" Line="30" Column="50" />
-      <File FileName="Assets/SocialAgent.cs" Line="239" Column="62" />
-      <File FileName="Assets/WandererCollisionAgent.cs" Line="82" Column="1" />
-      <File FileName="Assets/Wanderer.cs" Line="302" Column="1" />
-      <File FileName="Assets/SocialCollisionObstacle.cs" Line="31" Column="13" />
-      <File FileName="Assets/AstarPathfindingProject/Core/AstarPath.cs" Line="838" Column="1" />
+      <File FileName="Assets/MyScripts/GenerateSocialAgents.cs" Line="54" Column="43" />
+      <File FileName="Assets/MyScripts/SocialAgent.cs" Line="33" Column="1" />
+      <File FileName="Assets/MyScripts/Wanderer.cs" Line="39" Column="22" />
+      <File FileName="Assets/MyScripts/Traveller.cs" Line="30" Column="20" />
+      <File FileName="Assets/MyScripts/GameAgent.cs" />
+      <File FileName="Assets/MyScripts/SocialCollisionAgent.cs" />
     </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="LovelyAgents" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="ImportedAssets" expanded="True">
+                <Node name="AstarPathfindingProject" expanded="True">
+                  <Node name="Core" expanded="True" />
+                  <Node name="Generators" expanded="True">
+                    <Node name="Utilities" expanded="True" />
+                  </Node>
+                </Node>
+              </Node>
+              <Node name="MyScripts" expanded="True">
+                <Node name="Traveller.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="c716c68c-3c0e-43a6-bf7b-9d243f0e32fc" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore />
+    <BreakpointStore>
+      <Breakpoint file="/Users/macbookpro/Documents/Unity/LovelyAgents/LovelyAgents/Assets/MyScripts/Traveller.cs" relfile="Assets/MyScripts/Traveller.cs" line="58" column="1" />
+    </BreakpointStore>
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MultiItemStartupConfigurations />
 </Properties>
